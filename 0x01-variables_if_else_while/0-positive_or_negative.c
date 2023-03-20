@@ -1,11 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
- * main - prints negative, zero, positive figures
- * return
- *
- */
+
+/**
+*main - Entry point into a code that prints size of dft com
+*Return: 0(Success)
+*/
+
 int main(void)
 {
 	int n;
